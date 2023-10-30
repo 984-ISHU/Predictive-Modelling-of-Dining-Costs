@@ -1,4 +1,6 @@
 # Datathon
+**It contains the solution to a competition from [Kaggle](https://www.kaggle.com/competitions/epoch-23).  
+_(To run the codes successfully, you'll have to download the datasets from [Kaggle](https://www.kaggle.com/competitions/epoch-23))_**
 
 ## Overview
 
