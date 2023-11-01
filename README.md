@@ -18,7 +18,7 @@ The dataset provided included information on restaurants, such as their name, lo
 - Data visualization libraries (e.g., Matplotlib, Seaborn)
 - Machine learning libraries (e.g., Scikit-Learn, XGBoost)
 
-## Technologies Used
+## Algorithm/Model Technologies Used
 
 Extreme Gradient Boosting (XGBR)
 
