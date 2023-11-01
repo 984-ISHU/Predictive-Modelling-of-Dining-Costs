@@ -18,3 +18,15 @@ The dataset provided included information on restaurants, such as their name, lo
 - Data visualization libraries (e.g., Matplotlib, Seaborn)
 - Machine learning libraries (e.g., Scikit-Learn, XGBoost)
 
+## Technologies Used
+
+Extreme Gradient Boosting (XGBR)
+
+## Evaluation
+
+The Root Mean Square Error (RMSE) is calculated as:
+$$RMSE = \sqrt{\frac{1}{n} \sum_{i=1}^{n} (y_i - \hat{y}_i)^2}$$
+
+The RMSE measures the square root of the average squared differences between the actual and predicted values.
+
+
